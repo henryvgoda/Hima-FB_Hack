@@ -7,7 +7,7 @@ Facebook Account Hacking Framework
 # OS Supported :
 - <h4> Linux</h4>
 ````
-$ git clone https://github.com/Hima-Tarek/Hima-FB_Hack
+$ git clone https://github.com/Ibrahim-Tarekk/Hima-FB_Hack
 $ apt-get install python3-pip
 $ cd Hima-FB_Hack
 $ chmod +x *
@@ -23,7 +23,7 @@ $ ./hima.sh
 $ pkg install git -y
 $ pkg install python -y
 $ pkg install python2 -y
-$ git clone https://github.com/Hima-Tarek/Hima-FB_Hack
+$ git clone https://github.com/Ibrahim-Tarekk/Hima-FB_Hack
 $ pkg install python3-pip
 $ cd Hima-FB_Hack
 $ chmod +x *
